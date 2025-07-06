@@ -1,3 +1,3 @@
-I only use GitHub to (rarely) contribute here. Find me on these sites instead:
+More of my code on these sites:
 - https://git.nadeko.net/tocariimaa
 - https://codeberg.org/tocariimaa
